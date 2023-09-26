@@ -11,9 +11,14 @@ const Home = () => {
          
     
     return (
-        <div>
-            <Banner></Banner>
-            <Cards cards ={cards}></Cards>
+        <div className="">
+            <div>
+                <Banner></Banner>
+            </div>
+            <div className=" content-center justify-center">
+                <Cards cards ={cards}></Cards>
+            </div>
+            
         </div>
     );
 };

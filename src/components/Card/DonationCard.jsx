@@ -14,10 +14,12 @@ const DonationCard = ({card}) => {
         color: text_button_bg || '#000000',
       };
     
+
+
     return (
         <div className="card w-96 shadow-xl" style={cardStyle}>
             <figure>
-                <img className="w-full object-cover"src={picture} alt="Donation" /> 
+                <img  className="w-full object-cover" src={picture} alt="Donation" /> 
             </figure>
                 <div className="card-body">
                      <div className="badge rounded-md" style={badgeStyle} >{category}</div>
