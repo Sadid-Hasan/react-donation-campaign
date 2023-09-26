@@ -1,11 +1,10 @@
-{
-    "products": [
+[
       {
         "id": 1,
-        "picture": "https://ibb.co/NTYC2kz",
+        "picture": "https://i.ibb.co/dmKM43y/Health.png",
         "title": "Clean Water for Children",
         "category": "Health",
-        "category_bg": "#0052FF",
+        "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
         "text_button_bg": "#0052FF",
         "description": "Access to clean and safe drinking water is a basic necessity, especially for children. Your support can help ensure that vulnerable communities have access to clean water sources, reducing the risk of waterborne diseases and improving overall health.",
@@ -13,10 +12,10 @@
       },
       {
         "id": 2,
-        "picture": "https://ibb.co/PMhBF55",
+        "picture": "https://i.ibb.co/sCwLbFF/Education.png",
         "title": "Good Education",
         "category": "Education",
-        "category_bg": "#FF444A",
+        "category_bg": "#FF444A33",
         "card_bg": "#FF444A26",
         "text_button_bg": "#FF444A",
         "description": "Quality education is a powerful tool for empowerment. Your contribution can make a significant impact by supporting educational initiatives that provide resources, opportunities, and a bright future for underprivileged students.",
@@ -24,10 +23,10 @@
       },
       {
         "id": 3,
-        "picture": "https://ibb.co/ngkb9Pm",
+        "picture": "https://i.ibb.co/Tvhk6W2/Clothing.png",
         "title": "Used Clothing Drive",
         "category": "Clothing",
-        "category_bg": "#79C23F",
+        "category_bg": "#79C23F33",
         "card_bg": "#79C23F26",
         "text_button_bg": "#79C23F",
         "description": "Clothing is not just a matter of style; it's about providing warmth and dignity to those in need. Join us in collecting and distributing gently used clothing to help individuals and families stay warm and maintain their sense of pride.",
@@ -35,10 +34,10 @@
       },
       {
         "id": 4,
-        "picture": "https://ibb.co/k9J9N9D",
+        "picture": "https://i.ibb.co/RBNBRB6/Food.png",
         "title": "Better Food for Everyone",
         "category": "Food",
-        "category_bg": "#F87147",
+        "category_bg": "#F8714733",
         "card_bg": "#F8714726",
         "text_button_bg": "#F87147",
         "description": "Access to nutritious food is a fundamental right. Your support can help combat food insecurity and promote healthier living by contributing to initiatives that provide better food options for everyone.",
@@ -46,10 +45,10 @@
       },
       {
         "id": 5,
-        "picture": "https://ibb.co/NTYC2kz",
+        "picture": "https://i.ibb.co/dmKM43y/Health.png",
         "title": "Health Checkup for Vulnerable Communities",
         "category": "Health",
-        "category_bg": "#0052FF",
+        "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
         "text_button_bg": "#0052FF",
         "description": "Regular health checkups are essential for vulnerable communities. Your contribution can help provide health screenings, medical care, and support to those who need it most, ensuring a healthier future for all.",
@@ -57,10 +56,10 @@
       },
       {
         "id": 6,
-        "picture": "https://ibb.co/PMhBF55",
+        "picture": "https://i.ibb.co/sCwLbFF/Education.png",
         "title": "Scholarships for Underprivileged Students",
         "category": "Education",
-        "category_bg": "#FF444A",
+        "category_bg": "#FF444A33",
         "card_bg": "#FF444A26",
         "text_button_bg": "#FF444A",
         "description": "Education is a pathway to a brighter future. By offering scholarships to underprivileged students, you can empower them to pursue their dreams and break the cycle of poverty.",
@@ -68,21 +67,21 @@
       },
       {
         "id": 7,
-        "picture": "https://ibb.co/ngkb9Pm",
-        "title": "Warm Winter Clothing Drive",
+        "picture": "https://i.ibb.co/Tvhk6W2/Clothing.png",
+        "title": "Used Clothing Drive",
         "category": "Clothing",
-        "category_bg": "#79C23F",
+        "category_bg": "#79C23F33",
         "card_bg": "#79C23F26",
-        "text_button_bg": "##79C23F",
-        "description": "Winters can be harsh, especially for those in need. Join us in collecting warm winter clothing to provide comfort and protection to those facing cold temperatures.",
-        "price": 44.99
+        "text_button_bg": "#79C23F",
+        "description": "Clothing is not just a matter of style; it's about providing warmth and dignity to those in need. Join us in collecting and distributing gently used clothing to help individuals and families stay warm and maintain their sense of pride.",
+        "price": 39.99
       },
       {
         "id": 8,
-        "picture": "https://ibb.co/k9J9N9D",
+        "picture": "https://i.ibb.co/RBNBRB6/Food.png",
         "title": "Food Aid for Homeless Shelters",
         "category": "Food",
-        "category_bg": "#F87147",
+        "category_bg": "#F8714733",
         "card_bg": "#F8714726",
         "text_button_bg": "#F87147",
         "description": "Homeless shelters play a vital role in providing meals and support to those without homes. Your support can help ensure that homeless individuals have access to nourishing meals and a chance to rebuild their lives.",
@@ -90,10 +89,10 @@
       },
       {
         "id": 9,
-        "picture": "https://ibb.co/NTYC2kz",
+        "picture": "https://i.ibb.co/dmKM43y/Health.png",
         "title": "Medical Supplies for Rural Clinics",
         "category": "Health",
-        "category_bg": "#0052FF",
+        "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
         "text_button_bg": "#0052FF",
         "description": "Access to medical supplies is critical for rural clinics serving underserved communities. Your contribution can help these clinics provide essential healthcare services and save lives.",
@@ -101,10 +100,10 @@
       },
       {
         "id": 10,
-        "picture": "image10.jpg",
+        "picture": "https://i.ibb.co/sCwLbFF/Education.png",
         "title": "Educational Books for Local Schools",
         "category": "Education",
-        "category_bg": "#FF444A",
+        "category_bg": "#FF444A33",
         "card_bg": "#FF444A26",
         "text_button_bg": "#FF444A",
         "description": "Books are the keys to knowledge. Your support can provide educational books to local schools, enabling students to expand their horizons and gain valuable knowledge for a brighter future.",
@@ -112,26 +111,25 @@
       },
       {
         "id": 11,
-        "picture": "https://ibb.co/ngkb9Pm",
-        "title": "Clothing Vouchers for Needy Families",
+        "picture": "https://i.ibb.co/Tvhk6W2/Clothing.png",
+        "title": "Used Clothing Drive",
         "category": "Clothing",
-        "category_bg": "#79C23F",
+        "category_bg": "#79C23F33",
         "card_bg": "#79C23F26",
-        "text_button_bg": "##79C23F",
-        "description": "Clothing vouchers can make a world of difference for families in need. Your contribution can provide vouchers that allow needy families to choose clothing that suits their preferences and sizes, preserving their dignity.",
-        "price": 49.99
+        "text_button_bg": "#79C23F",
+        "description": "Clothing is not just a matter of style; it's about providing warmth and dignity to those in need. Join us in collecting and distributing gently used clothing to help individuals and families stay warm and maintain their sense of pride.",
+        "price": 39.99
       },
       {
         "id": 12,
-        "picture": "https://ibb.co/k9J9N9D",
+        "picture": "https://i.ibb.co/RBNBRB6/Food.png",
         "title": "Food Delivery for Seniors in Isolation",
         "category": "Food",
-        "category_bg": "#F87147",
+        "category_bg": "#F8714733",
         "card_bg": "#F8714726",
         "text_button_bg": "#F87147",
         "description": "Many seniors face isolation and food insecurity. Your support can help deliver nutritious meals to isolated seniors, ensuring they receive the nourishment and companionship they need.",
         "price": 29.99
       }
     ]
-  }
   
