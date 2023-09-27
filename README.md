@@ -2,7 +2,7 @@
 
 Project features:
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Shows toast when added any donation
+- If added more than 4 card then wrap the cards and show see all
+- Responsive for most of the mobile device
 

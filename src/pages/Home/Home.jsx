@@ -15,7 +15,7 @@ const Home = () => {
             <div>
                 <Banner></Banner>
             </div>
-            <div className=" content-center justify-center">
+            <div className=" content-center items-center justify-center">
                 <Cards cards ={cards}></Cards>
             </div>
             

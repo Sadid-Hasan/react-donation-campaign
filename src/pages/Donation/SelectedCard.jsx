@@ -1,7 +1,6 @@
 import React from 'react';
-
 const SelectedCard = ({ card }) => {
-  const { id, picture, title, category, category_bg, card_bg, text_button_bg, description, price } = card || {};
+const { id, picture, title, category, category_bg, card_bg, text_button_bg, description, price } = card || {};
   
   const cardStyle = {
     backgroundColor: card_bg || '#FFFFFF', 
@@ -43,5 +42,4 @@ const SelectedCard = ({ card }) => {
         </div>
   );
 };
-
 export default SelectedCard;

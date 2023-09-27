@@ -30,17 +30,6 @@ const DetailCard = ({ detail }) => {
   }
 
 
-
-
-
-
-
-
-
-
-
-
-
   const badgeStyle = {
     backgroundColor: category_bg || '#FFFFFF',
     color: text_button_bg || '#000000',
